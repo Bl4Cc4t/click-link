@@ -1,17 +1,14 @@
-# THIS PROJECT IS NO LONGER MAINTAINED
-
-[![Version](https://img.shields.io/apm/v/click-link.svg)](https://atom.io/packages/click-link)
-[![Downloads](https://img.shields.io/apm/dm/click-link.svg)](https://atom.io/packages/click-link)
-[![license](https://img.shields.io/apm/l/click-link.svg)](https://atom.io/packages/click-link)
-# Click to open links in the browser
-
+## Click to open links in the browser
 Adds the ability to ctrl-click (cmd-click on macs) links and open them in the default browser.
+
+This is a fork with ~~some fixes~~ one fix:
+- softwrapped links are not broken
+
 
 ### Installation
 
 ```
-apm install click-link
+apm install Bl4Cc4t/click-link
 ```
-Or directly inside atom: File > Settings -> Install > click-link
 
 Requires [language-hyperlink](https://atom.io/packages/language-hyperlink) to be installed and enabled.

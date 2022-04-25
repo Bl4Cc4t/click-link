@@ -1,7 +1,7 @@
 {
   "name": "click-link",
   "main": "./lib/click-link",
-  "version": "1.0.11",
+  "version": "1.1.0",
   "description": "Enables ctrl clicking links and opening them in the browser",
   "keywords": [
     "link",
@@ -11,7 +11,7 @@
     "open link",
     "browser"
   ],
-  "repository": "https://github.com/patrick96/click-link",
+  "repository": "https://github.com/Bl4Cc4t/click-link",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
